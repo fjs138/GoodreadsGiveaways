@@ -5,6 +5,8 @@ GoodreadsGiveaways-masterOld2 (also possibly modified, old)
 
 GoodreadsGiveaways-masterNew (latest, original author)
 
+Goodreads giveaway auto-enter.user.js (possibly source from a javascript version)
+
 # GoodreadsGiveaways
 Uses Selenium WebDriver to automatically enter giveaways on GoodReads
 
