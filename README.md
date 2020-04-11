@@ -1,6 +1,8 @@
 # GoodreadsGiveaways
 GoodreadsGiveaways-masterOld (possibly modified, old)
+
 GoodreadsGiveaways-masterOld2 (also possibly modified, old)
+
 GoodreadsGiveaways-masterNew (latest, original author)
 
 # GoodreadsGiveaways
