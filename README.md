@@ -14,7 +14,7 @@ This is a Java Selenium program which automatically enters giveaways for books o
 How to use:
   -Download the "Runnable JAR" folder and extract it.
   
-  -Download and install the most recent JDK for your OS: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+  -Download and install the most recent JDK for your OS: https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
   
   -Make sure Chrome is installed on your machine: https://www.google.com/chrome/browser/desktop/index.html
   
